@@ -65,7 +65,7 @@ Note: This is a one-sample demonstration and does not represent full-dataset ben
 ![Evaluation Report](./Evaluation%20report.png)
 
 ### 4. Saved Prediction
-![Saved Prediction](./Saved%20predicition.png)
+![Saved Prediction](./Saved%20prediction.png)
 ## 9. Conclusion
 The demonstration illustrates how program-guided reasoning can be used to break down a complex claim into smaller verification steps and generate a final prediction using supporting evidence.
 
