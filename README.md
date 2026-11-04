@@ -56,16 +56,16 @@ Note: This is a one-sample demonstration and does not represent full-dataset ben
 ## 8. Screenshots
 
 ### 1. Dataset and Sample Program
-![Dataset and Program](./dataset_program.png)
+![Dataset and Sample Program](./Dataset%20and%20sample%20program.png)
 
-### 2. Model Execution Summary
-![Model Execution](./model_execution.png)
+### 2. Model Loading and Execution
+![Model Loading and Execution](./Model%20loading%20and%20execution.png)
 
-### 3. Evaluation Results
-![Evaluation Results](./evaluation_results.png)
+### 3. Evaluation Report
+![Evaluation Report](./Evaluation%20report.png)
 
 ### 4. Saved Prediction
-![Saved Prediction](./saved_prediction.png)
+![Saved Prediction](./Saved%20predicition.png)
 ## 9. Conclusion
 The demonstration illustrates how program-guided reasoning can be used to break down a complex claim into smaller verification steps and generate a final prediction using supporting evidence.
 
