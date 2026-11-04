@@ -1,0 +1,15 @@
+[
+    {
+        "idx": 0,
+        "id": "042339bf-0374-4ab3-ab49-6df5f12d868e",
+        "claim": "The song recorded by Fergie that was produced by Polow da Don and was followed by Life Goes On was M.I.L.F.$.",
+        "gold": "supports",
+        "predicted_programs": [
+            [
+                "fact_1 = Verify(\"M.I.L.F.$ was recorded by Fergie and produced by Polow da Don.\")",
+                "fact_2 = Verify(\"M.I.L.F.$ was followed by Life Goes On.\")",
+                "label = Predict(fact_1 and fact_2)"
+            ]
+        ]
+    }
+]
