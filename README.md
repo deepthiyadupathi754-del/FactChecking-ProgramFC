@@ -53,20 +53,19 @@ The demonstration successfully executed one manually prepared fact-checking prog
 - Demonstration accuracy: 100% (1 out of 1 sample)
 
 Note: This is a one-sample demonstration and does not represent full-dataset benchmark performance. The program was manually prepared; automatic program generation was not evaluated.
-
 ## 8. Screenshots
 
 ### 1. Dataset and Sample Program
-![Dataset and Program](screenshot/dataset_program.png)
+![Dataset and Program](./dataset_program.png)
 
 ### 2. Model Execution Summary
-![Model Execution](screenshot/model_execution.png)
+![Model Execution](./model_execution.png)
 
 ### 3. Evaluation Results
-![Evaluation Results](screenshot/evaluation_results.png)
+![Evaluation Results](./evaluation_results.png)
 
 ### 4. Saved Prediction
-![Saved Prediction](screenshot/saved_prediction.png)
+![Saved Prediction](./saved_prediction.png)
 ## 9. Conclusion
 The demonstration illustrates how program-guided reasoning can be used to break down a complex claim into smaller verification steps and generate a final prediction using supporting evidence.
 
